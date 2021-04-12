@@ -24,5 +24,12 @@ North Tunbridge #2 farmer has left the bridge
 ```
 ## Additional Information
 - There are comments in the code that illustrates the thought process and exactly what each line of code is doing.
+## Using the Application
+### With Mutex Lock
+![](images/1.JPG)
+![](images/2.JPG)
+### Without Mutex Lock
+![](images/3.JPG)
+![](images/4.JPG)
 ## Ask me about anything
 If there are any questions, feel free to ask them [here](https://github.com/ChibiKev/Bridge-For-One/issues).
